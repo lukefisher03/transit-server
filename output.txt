@@ -1,0 +1,394 @@
+SHOWING TRIPS FOR LINE: 17
+Looking for stop:  CLI2659e
+Bus direction:  1
+Trip ID: 1662729
+HAMHUDo Estimated Departure Time:1720277460*
+HAMGREo Estimated Departure Time:1720277580*
+HAMBURo Estimated Departure Time:1720277640 Departing in 0 minutes
+HAMSPRIo Estimated Departure Time:1720277640 Departing in 0 minutes
+HAMSTRo Estimated Departure Time:1720277640 Departing in 0 minutes
+HAMNORTo Estimated Departure Time:1720277700 Departing in 1 minutes
+HAMROOo Estimated Departure Time:1720277760 Departing in 2 minutes
+SEVo Estimated Departure Time:1720277820 Departing in 3 minutes
+SEVSPRo Estimated Departure Time:1720277820 Departing in 3 minutes
+SPRROOo Estimated Departure Time:1720277880 Departing in 4 minutes
+ROOHAMo 
+This bus is  0  stops away from your location
+
+Bus direction:  1
+Trip ID: 1662731
+GSqB Estimated Departure Time:1720279200 Departing in 26 minutes
+MAI7MIDo Estimated Departure Time:1720279260 Departing in 27 minutes
+MAI9THo Estimated Departure Time:1720279320 Departing in 28 minutes
+MAICOUo Estimated Departure Time:1720279320 Departing in 28 minutes
+MAIREAo Estimated Departure Time:1720279380 Departing in 29 minutes
+MAI13THo Estimated Departure Time:1720279380 Departing in 29 minutes
+MAIORCo Estimated Departure Time:1720279440 Departing in 30 minutes
+MCMLANo Estimated Departure Time:1720279560 Departing in 32 minutes
+MCMFRIo Estimated Departure Time:1720279560 Departing in 32 minutes
+CLIOHIo Estimated Departure Time:1720279680 Departing in 34 minutes
+CLI2066o Estimated Departure Time:1720279740 Departing in 35 minutes
+CLIKLOo Estimated Departure Time:1720279740 Departing in 35 minutes
+CLIPARo Estimated Departure Time:1720279800 Departing in 36 minutes
+CLIATKo Estimated Departure Time:1720279860 Departing in 37 minutes
+CLIMCMo Estimated Departure Time:1720279860 Departing in 37 minutes
+CALCLIw Estimated Departure Time:1720279920 Departing in 38 minutes
+CLISTRo Estimated Departure Time:1720279920 Departing in 38 minutes
+CLI2659e Estimated Departure Time:1720279980 Departing in 39 minutes
+CLICLIo Estimated Departure Time:1720280040 Departing in 40 minutes
+CLIHEBe Estimated Departure Time:1720280040 Departing in 40 minutes
+CLIGOO Estimated Departure Time:1720280100 Departing in 41 minutes
+CLIBURe Estimated Departure Time:1720280160 Departing in 42 minutes
+LUDTELo Estimated Departure Time:1720280220 Departing in 43 minutes
+LUDMIDo Estimated Departure Time:1720280220 Departing in 43 minutes
+LUDWHIo Estimated Departure Time:1720280220 Departing in 43 minutes
+LUDLYLo Estimated Departure Time:1720280280 Departing in 44 minutes
+LUDMORo Estimated Departure Time:1720280280 Departing in 44 minutes
+LUDOLDo Estimated Departure Time:1720280340 Departing in 45 minutes
+LUDCLIFo Estimated Departure Time:1720280340 Departing in 45 minutes
+LUDLAFo Estimated Departure Time:1720280400 Departing in 46 minutes
+LUDRUEo Estimated Departure Time:1720280460 Departing in 47 minutes
+NTCe Estimated Departure Time:1720280580 Departing in 49 minutes
+HAMKNOo Estimated Departure Time:1720280640 Departing in 50 minutes
+HAMHOBo Estimated Departure Time:1720280640 Departing in 50 minutes
+HAMPULo Estimated Departure Time:1720280700 Departing in 51 minutes
+HAMBRUo Estimated Departure Time:1720280700 Departing in 51 minutes
+HAMGLEo Estimated Departure Time:1720280760 Departing in 52 minutes
+HAMFREo Estimated Departure Time:1720280760 Departing in 52 minutes
+HAMSTAo Estimated Departure Time:1720280820 Departing in 53 minutes
+HAMSPRo Estimated Departure Time:1720280880 Departing in 54 minutes
+HAMASHo Estimated Departure Time:1720280880 Departing in 54 minutes
+HAMROCo Estimated Departure Time:1720280940 Departing in 55 minutes
+HAM4930o Estimated Departure Time:1720280940 Departing in 55 minutes
+HAM5300o Estimated Departure Time:1720281000 Departing in 56 minutes
+HAM5400o Estimated Departure Time:1720281060 Departing in 57 minutes
+HAMHILo Estimated Departure Time:1720281120 Departing in 58 minutes
+HAMLARo Estimated Departure Time:1720281120 Departing in 58 minutes
+HAMGROo Estimated Departure Time:1720281180 Departing in 59 minutes
+HAMLLAo Estimated Departure Time:1720281180 Departing in 59 minutes
+HAMCEDo Estimated Departure Time:1720281240 Departing in 60 minutes
+HAMMARo Estimated Departure Time:1720281240 Departing in 60 minutes
+HAMAMBo Estimated Departure Time:1720281240 Departing in 60 minutes
+HAMNORo Estimated Departure Time:1720281300 Departing in 61 minutes
+HAMREIo Estimated Departure Time:1720281360 Departing in 62 minutes
+HAMTEAo Estimated Departure Time:1720281420 Departing in 63 minutes
+HAMHOLo Estimated Departure Time:1720281420 Departing in 63 minutes
+HAMOAKo Estimated Departure Time:1720281480 Departing in 64 minutes
+HAMSUNo Estimated Departure Time:1720281540 Departing in 65 minutes
+HAMDEAo Estimated Departure Time:1720281540 Departing in 65 minutes
+HAMGALo Estimated Departure Time:1720281600 Departing in 66 minutes
+HAMBISo Estimated Departure Time:1720281660 Departing in 67 minutes
+HAMCLOo Estimated Departure Time:1720281660 Departing in 67 minutes
+HAMCENo Estimated Departure Time:1720281720 Departing in 68 minutes
+HAMMADo Estimated Departure Time:1720281840 Departing in 70 minutes
+HAMKINo Estimated Departure Time:1720281900 Departing in 71 minutes
+HAMMCMo Estimated Departure Time:1720281900 Departing in 71 minutes
+HAMHASo Estimated Departure Time:1720281960 Departing in 72 minutes
+HAMADAo Estimated Departure Time:1720282020 Departing in 73 minutes
+HAM8042o Estimated Departure Time:1720282080 Departing in 74 minutes
+HAMMERo Estimated Departure Time:1720282140 Departing in 75 minutes
+HAMHUDo Estimated Departure Time:1720282200 Departing in 76 minutes
+HAMGREo Estimated Departure Time:1720282260 Departing in 77 minutes
+HAMBURo Estimated Departure Time:1720282320 Departing in 78 minutes
+HAMSPRIo Estimated Departure Time:1720282320 Departing in 78 minutes
+HAMSTRo Estimated Departure Time:1720282380 Departing in 79 minutes
+HAMNORTo Estimated Departure Time:1720282440 Departing in 80 minutes
+HAMROOo Estimated Departure Time:1720282500 Departing in 81 minutes
+SEVo Estimated Departure Time:1720282560 Departing in 82 minutes
+SEVSPRo Estimated Departure Time:1720282560 Departing in 82 minutes
+SPRROOo Estimated Departure Time:1720282620 Departing in 83 minutes
+ROOHAMo 
+This bus is  17  stops away from your location
+
+Bus direction:  1
+Trip ID: 1662697
+GSqB Estimated Departure Time:1720280400 Departing in 46 minutes
+MAI7MIDo Estimated Departure Time:1720280460 Departing in 47 minutes
+MAI9THo Estimated Departure Time:1720280460 Departing in 47 minutes
+MAICOUo Estimated Departure Time:1720280520 Departing in 48 minutes
+MAIREAo Estimated Departure Time:1720280520 Departing in 48 minutes
+MAI13THo Estimated Departure Time:1720280580 Departing in 49 minutes
+MAIORCo Estimated Departure Time:1720280640 Departing in 50 minutes
+MCMLANo Estimated Departure Time:1720280700 Departing in 51 minutes
+MCMFRIo Estimated Departure Time:1720280760 Departing in 52 minutes
+CLIOHIo Estimated Departure Time:1720280820 Departing in 53 minutes
+CLI2066o Estimated Departure Time:1720280880 Departing in 54 minutes
+CLIKLOo Estimated Departure Time:1720280940 Departing in 55 minutes
+CLIPARo Estimated Departure Time:1720280940 Departing in 55 minutes
+CLIATKo Estimated Departure Time:1720281000 Departing in 56 minutes
+CLIMCMo Estimated Departure Time:1720281060 Departing in 57 minutes
+CALCLIw Estimated Departure Time:1720281120 Departing in 58 minutes
+CLISTRo Estimated Departure Time:1720281120 Departing in 58 minutes
+CLI2659e Estimated Departure Time:1720281180 Departing in 59 minutes
+CLICLIo Estimated Departure Time:1720281180 Departing in 59 minutes
+CLIHEBe Estimated Departure Time:1720281240 Departing in 60 minutes
+CLIGOO Estimated Departure Time:1720281300 Departing in 61 minutes
+CLIBURe Estimated Departure Time:1720281300 Departing in 61 minutes
+LUDTELo Estimated Departure Time:1720281360 Departing in 62 minutes
+LUDMIDo Estimated Departure Time:1720281360 Departing in 62 minutes
+LUDWHIo Estimated Departure Time:1720281420 Departing in 63 minutes
+LUDLYLo Estimated Departure Time:1720281420 Departing in 63 minutes
+LUDMORo Estimated Departure Time:1720281480 Departing in 64 minutes
+LUDOLDo Estimated Departure Time:1720281480 Departing in 64 minutes
+LUDCLIFo Estimated Departure Time:1720281540 Departing in 65 minutes
+LUDLAFo Estimated Departure Time:1720281540 Departing in 65 minutes
+LUDRUEo Estimated Departure Time:1720281600 Departing in 66 minutes
+NTCe Estimated Departure Time:1720281780 Departing in 69 minutes
+HAMKNOo Estimated Departure Time:1720281780 Departing in 69 minutes
+HAMHOBo Estimated Departure Time:1720281840 Departing in 70 minutes
+HAMPULo Estimated Departure Time:1720281840 Departing in 70 minutes
+HAMBRUo Estimated Departure Time:1720281900 Departing in 71 minutes
+HAMGLEo Estimated Departure Time:1720281960 Departing in 72 minutes
+HAMFREo Estimated Departure Time:1720281960 Departing in 72 minutes
+HAMSTAo Estimated Departure Time:1720282020 Departing in 73 minutes
+HAMSPRo Estimated Departure Time:1720282080 Departing in 74 minutes
+HAMASHo Estimated Departure Time:1720282080 Departing in 74 minutes
+HAMROCo Estimated Departure Time:1720282140 Departing in 75 minutes
+HAM4930o Estimated Departure Time:1720282140 Departing in 75 minutes
+HAM5300o Estimated Departure Time:1720282200 Departing in 76 minutes
+HAM5400o Estimated Departure Time:1720282260 Departing in 77 minutes
+HAMHILo Estimated Departure Time:1720282320 Departing in 78 minutes
+HAMLARo Estimated Departure Time:1720282380 Departing in 79 minutes
+HAMGROo Estimated Departure Time:1720282380 Departing in 79 minutes
+HAMLLAo Estimated Departure Time:1720282440 Departing in 80 minutes
+HAMCEDo Estimated Departure Time:1720282440 Departing in 80 minutes
+HAMMARo Estimated Departure Time:1720282500 Departing in 81 minutes
+HAMAMBo Estimated Departure Time:1720282500 Departing in 81 minutes
+HAMNORo Estimated Departure Time:1720282560 Departing in 82 minutes
+NORHAMo Estimated Departure Time:1720282560 Departing in 82 minutes
+NORCARo Estimated Departure Time:1720282560 Departing in 82 minutes
+NORSAVo Estimated Departure Time:1720282620 Departing in 83 minutes
+NORWITo Estimated Departure Time:1720282680 Departing in 84 minutes
+NORSIMo Estimated Departure Time:1720282680 Departing in 84 minutes
+SIM2NDo Estimated Departure Time:1720282740 Departing in 85 minutes
+SIM5THo Estimated Departure Time:1720282740 Departing in 85 minutes
+SIMNORo Estimated Departure Time:1720282800 Departing in 86 minutes
+SIMWALo Estimated Departure Time:1720282800 Departing in 86 minutes
+SIMSHOo Estimated Departure Time:1720282920 Departing in 88 minutes
+GALMULe Estimated Departure Time:1720282920 Departing in 88 minutes
+GALBETe Estimated Departure Time:1720282980 Departing in 89 minutes
+GALMEAe Estimated Departure Time:1720282980 Departing in 89 minutes
+HAMBISo Estimated Departure Time:1720283100 Departing in 91 minutes
+HAMCLOo Estimated Departure Time:1720283100 Departing in 91 minutes
+HAMCENo Estimated Departure Time:1720283160 Departing in 92 minutes
+HAMMADo Estimated Departure Time:1720283220 Departing in 93 minutes
+HAMKINo Estimated Departure Time:1720283220 Departing in 93 minutes
+HAMMCMo Estimated Departure Time:1720283280 Departing in 94 minutes
+HAMHASo Estimated Departure Time:1720283340 Departing in 95 minutes
+HAMADAo Estimated Departure Time:1720283340 Departing in 95 minutes
+HAM8042o Estimated Departure Time:1720283400 Departing in 96 minutes
+HILTOPi 
+This bus is  17  stops away from your location
+
+Bus direction:  1
+Trip ID: 1662696
+GSqB Estimated Departure Time:1720278300 Departing in 11 minutes
+MAI7MIDo Estimated Departure Time:1720278360 Departing in 12 minutes
+MAI9THo Estimated Departure Time:1720278420 Departing in 13 minutes
+MAICOUo Estimated Departure Time:1720278420 Departing in 13 minutes
+MAIREAo Estimated Departure Time:1720278480 Departing in 14 minutes
+MAI13THo Estimated Departure Time:1720278480 Departing in 14 minutes
+MAIORCo Estimated Departure Time:1720278540 Departing in 15 minutes
+MCMLANo Estimated Departure Time:1720278660 Departing in 17 minutes
+MCMFRIo Estimated Departure Time:1720278660 Departing in 17 minutes
+CLIOHIo Estimated Departure Time:1720278780 Departing in 19 minutes
+CLI2066o Estimated Departure Time:1720278840 Departing in 20 minutes
+CLIKLOo Estimated Departure Time:1720278840 Departing in 20 minutes
+CLIPARo Estimated Departure Time:1720278900 Departing in 21 minutes
+CLIATKo Estimated Departure Time:1720278960 Departing in 22 minutes
+CLIMCMo Estimated Departure Time:1720278960 Departing in 22 minutes
+CALCLIw Estimated Departure Time:1720279020 Departing in 23 minutes
+CLISTRo Estimated Departure Time:1720279020 Departing in 23 minutes
+CLI2659e Estimated Departure Time:1720279080 Departing in 24 minutes
+CLICLIo Estimated Departure Time:1720279140 Departing in 25 minutes
+CLIHEBe Estimated Departure Time:1720279140 Departing in 25 minutes
+CLIGOO Estimated Departure Time:1720279200 Departing in 26 minutes
+CLIBURe Estimated Departure Time:1720279260 Departing in 27 minutes
+LUDTELo Estimated Departure Time:1720279320 Departing in 28 minutes
+LUDMIDo Estimated Departure Time:1720279320 Departing in 28 minutes
+LUDWHIo Estimated Departure Time:1720279320 Departing in 28 minutes
+LUDLYLo Estimated Departure Time:1720279380 Departing in 29 minutes
+LUDMORo Estimated Departure Time:1720279380 Departing in 29 minutes
+LUDOLDo Estimated Departure Time:1720279440 Departing in 30 minutes
+LUDCLIFo Estimated Departure Time:1720279440 Departing in 30 minutes
+LUDLAFo Estimated Departure Time:1720279500 Departing in 31 minutes
+LUDRUEo Estimated Departure Time:1720279560 Departing in 32 minutes
+NTCe Estimated Departure Time:1720279680 Departing in 34 minutes
+HAMKNOo Estimated Departure Time:1720279740 Departing in 35 minutes
+HAMHOBo Estimated Departure Time:1720279740 Departing in 35 minutes
+HAMPULo Estimated Departure Time:1720279800 Departing in 36 minutes
+HAMBRUo Estimated Departure Time:1720279800 Departing in 36 minutes
+HAMGLEo Estimated Departure Time:1720279860 Departing in 37 minutes
+HAMFREo Estimated Departure Time:1720279920 Departing in 38 minutes
+HAMSTAo Estimated Departure Time:1720279920 Departing in 38 minutes
+HAMSPRo Estimated Departure Time:1720279980 Departing in 39 minutes
+HAMASHo Estimated Departure Time:1720280040 Departing in 40 minutes
+HAMROCo Estimated Departure Time:1720280040 Departing in 40 minutes
+HAM4930o Estimated Departure Time:1720280100 Departing in 41 minutes
+HAM5300o Estimated Departure Time:1720280160 Departing in 42 minutes
+HAM5400o Estimated Departure Time:1720280220 Departing in 43 minutes
+HAMHILo Estimated Departure Time:1720280220 Departing in 43 minutes
+HAMLARo Estimated Departure Time:1720280280 Departing in 44 minutes
+HAMGROo Estimated Departure Time:1720280340 Departing in 45 minutes
+HAMLLAo Estimated Departure Time:1720280340 Departing in 45 minutes
+HAMCEDo Estimated Departure Time:1720280400 Departing in 46 minutes
+HAMMARo Estimated Departure Time:1720280400 Departing in 46 minutes
+HAMAMBo Estimated Departure Time:1720280400 Departing in 46 minutes
+HAMNORo Estimated Departure Time:1720280460 Departing in 47 minutes
+NORHAMo Estimated Departure Time:1720280460 Departing in 47 minutes
+NORCARo Estimated Departure Time:1720280520 Departing in 48 minutes
+NORSAVo Estimated Departure Time:1720280520 Departing in 48 minutes
+NORWITo Estimated Departure Time:1720280580 Departing in 49 minutes
+NORSIMo Estimated Departure Time:1720280640 Departing in 50 minutes
+SIM2NDo Estimated Departure Time:1720280640 Departing in 50 minutes
+SIM5THo Estimated Departure Time:1720280700 Departing in 51 minutes
+SIMNORo Estimated Departure Time:1720280700 Departing in 51 minutes
+SIMWALo Estimated Departure Time:1720280760 Departing in 52 minutes
+SIMSHOo Estimated Departure Time:1720280820 Departing in 53 minutes
+GALMULe Estimated Departure Time:1720280880 Departing in 54 minutes
+GALBETe Estimated Departure Time:1720280880 Departing in 54 minutes
+GALMEAe Estimated Departure Time:1720280940 Departing in 55 minutes
+HAMBISo Estimated Departure Time:1720281000 Departing in 56 minutes
+HAMCLOo Estimated Departure Time:1720281000 Departing in 56 minutes
+HAMCENo Estimated Departure Time:1720281060 Departing in 57 minutes
+HAMMADo Estimated Departure Time:1720281120 Departing in 58 minutes
+HAMKINo Estimated Departure Time:1720281180 Departing in 59 minutes
+HAMMCMo Estimated Departure Time:1720281180 Departing in 59 minutes
+HAMHASo Estimated Departure Time:1720281240 Departing in 60 minutes
+HAMADAo Estimated Departure Time:1720281300 Departing in 61 minutes
+HAM8042o Estimated Departure Time:1720281300 Departing in 61 minutes
+HILTOPi 
+This bus is  17  stops away from your location
+
+Bus direction:  1
+Trip ID: 1662730
+MAI7MIDo Estimated Departure Time:1720276980*
+MAI9THo Estimated Departure Time:1720277040*
+MAICOUo Estimated Departure Time:1720277040*
+MAIREAo Estimated Departure Time:1720277100*
+MAI13THo Estimated Departure Time:1720277100*
+MAIORCo Estimated Departure Time:1720277160*
+MCMLANo Estimated Departure Time:1720277280*
+MCMFRIo Estimated Departure Time:1720277280*
+CLIOHIo Estimated Departure Time:1720277400*
+CLI2066o Estimated Departure Time:1720277460*
+CLIKLOo Estimated Departure Time:1720277460*
+CLIPARo Estimated Departure Time:1720277520*
+CLIATKo Estimated Departure Time:1720277580*
+CLIMCMo Estimated Departure Time:1720277580*
+CALCLIw Estimated Departure Time:1720277640 Departing in 0 minutes
+CLISTRo Estimated Departure Time:1720277640 Departing in 0 minutes
+CLI2659e Estimated Departure Time:1720277700 Departing in 1 minutes
+CLICLIo Estimated Departure Time:1720277760 Departing in 2 minutes
+CLIHEBe Estimated Departure Time:1720277760 Departing in 2 minutes
+CLIGOO Estimated Departure Time:1720277820 Departing in 3 minutes
+CLIBURe Estimated Departure Time:1720277880 Departing in 4 minutes
+LUDTELo Estimated Departure Time:1720277940 Departing in 5 minutes
+LUDMIDo Estimated Departure Time:1720277940 Departing in 5 minutes
+LUDWHIo Estimated Departure Time:1720277940 Departing in 5 minutes
+LUDLYLo Estimated Departure Time:1720278000 Departing in 6 minutes
+LUDMORo Estimated Departure Time:1720278000 Departing in 6 minutes
+LUDOLDo Estimated Departure Time:1720278060 Departing in 7 minutes
+LUDCLIFo Estimated Departure Time:1720278060 Departing in 7 minutes
+LUDLAFo Estimated Departure Time:1720278120 Departing in 8 minutes
+LUDRUEo Estimated Departure Time:1720278180 Departing in 9 minutes
+NTCe Estimated Departure Time:1720278300 Departing in 11 minutes
+HAMKNOo Estimated Departure Time:1720278360 Departing in 12 minutes
+HAMHOBo Estimated Departure Time:1720278360 Departing in 12 minutes
+HAMPULo Estimated Departure Time:1720278420 Departing in 13 minutes
+HAMBRUo Estimated Departure Time:1720278420 Departing in 13 minutes
+HAMGLEo Estimated Departure Time:1720278480 Departing in 14 minutes
+HAMFREo Estimated Departure Time:1720278480 Departing in 14 minutes
+HAMSTAo Estimated Departure Time:1720278540 Departing in 15 minutes
+HAMSPRo Estimated Departure Time:1720278600 Departing in 16 minutes
+HAMASHo Estimated Departure Time:1720278600 Departing in 16 minutes
+HAMROCo Estimated Departure Time:1720278660 Departing in 17 minutes
+HAM4930o Estimated Departure Time:1720278660 Departing in 17 minutes
+HAM5300o Estimated Departure Time:1720278720 Departing in 18 minutes
+HAM5400o Estimated Departure Time:1720278780 Departing in 19 minutes
+HAMHILo Estimated Departure Time:1720278840 Departing in 20 minutes
+HAMLARo Estimated Departure Time:1720278840 Departing in 20 minutes
+HAMGROo Estimated Departure Time:1720278900 Departing in 21 minutes
+HAMLLAo Estimated Departure Time:1720278900 Departing in 21 minutes
+HAMCEDo Estimated Departure Time:1720278960 Departing in 22 minutes
+HAMMARo Estimated Departure Time:1720278960 Departing in 22 minutes
+HAMAMBo Estimated Departure Time:1720278960 Departing in 22 minutes
+HAMNORo Estimated Departure Time:1720279020 Departing in 23 minutes
+HAMREIo Estimated Departure Time:1720279080 Departing in 24 minutes
+HAMTEAo Estimated Departure Time:1720279080 Departing in 24 minutes
+HAMHOLo Estimated Departure Time:1720279140 Departing in 25 minutes
+HAMOAKo Estimated Departure Time:1720279140 Departing in 25 minutes
+HAMSUNo Estimated Departure Time:1720279200 Departing in 26 minutes
+HAMDEAo Estimated Departure Time:1720279260 Departing in 27 minutes
+HAMGALo Estimated Departure Time:1720279260 Departing in 27 minutes
+HAMBISo Estimated Departure Time:1720279320 Departing in 28 minutes
+HAMCLOo Estimated Departure Time:1720279320 Departing in 28 minutes
+HAMCENo Estimated Departure Time:1720279380 Departing in 29 minutes
+HAMMADo Estimated Departure Time:1720279500 Departing in 31 minutes
+HAMKINo Estimated Departure Time:1720279500 Departing in 31 minutes
+HAMMCMo Estimated Departure Time:1720279560 Departing in 32 minutes
+HAMHASo Estimated Departure Time:1720279620 Departing in 33 minutes
+HAMADAo Estimated Departure Time:1720279620 Departing in 33 minutes
+HAM8042o Estimated Departure Time:1720279680 Departing in 34 minutes
+HAMMERo Estimated Departure Time:1720279740 Departing in 35 minutes
+HAMHUDo Estimated Departure Time:1720279740 Departing in 35 minutes
+HAMGREo Estimated Departure Time:1720279860 Departing in 37 minutes
+HAMBURo Estimated Departure Time:1720279920 Departing in 38 minutes
+HAMSPRIo Estimated Departure Time:1720279920 Departing in 38 minutes
+HAMSTRo Estimated Departure Time:1720279920 Departing in 38 minutes
+HAMNORTo Estimated Departure Time:1720279980 Departing in 39 minutes
+HAMROOo Estimated Departure Time:1720280040 Departing in 40 minutes
+SEVo Estimated Departure Time:1720280100 Departing in 41 minutes
+SEVSPRo Estimated Departure Time:1720280100 Departing in 41 minutes
+SPRROOo Estimated Departure Time:1720280160 Departing in 42 minutes
+ROOHAMo 
+This bus is  2  stops away from your location
+
+Bus direction:  1
+Trip ID: 1662695
+HAMKNOo Estimated Departure Time:1720277220*
+HAMHOBo Estimated Departure Time:1720277220*
+HAMPULo Estimated Departure Time:1720277220*
+HAMBRUo Estimated Departure Time:1720277220*
+HAMGLEo Estimated Departure Time:1720277220*
+HAMFREo Estimated Departure Time:1720277220*
+HAMSTAo Estimated Departure Time:1720277280*
+HAMSPRo Estimated Departure Time:1720277340*
+HAMASHo Estimated Departure Time:1720277340*
+HAMROCo Estimated Departure Time:1720277400*
+HAM4930o Estimated Departure Time:1720277400*
+HAM5300o Estimated Departure Time:1720277460*
+HAM5400o Estimated Departure Time:1720277520*
+HAMHILo Estimated Departure Time:1720277580*
+HAMLARo Estimated Departure Time:1720277580*
+HAMGROo Estimated Departure Time:1720277640 Departing in 0 minutes
+HAMLLAo Estimated Departure Time:1720277640 Departing in 0 minutes
+HAMCEDo Estimated Departure Time:1720277700 Departing in 1 minutes
+HAMMARo Estimated Departure Time:1720277700 Departing in 1 minutes
+HAMAMBo Estimated Departure Time:1720277700 Departing in 1 minutes
+HAMNORo Estimated Departure Time:1720277760 Departing in 2 minutes
+NORHAMo Estimated Departure Time:1720277760 Departing in 2 minutes
+NORCARo Estimated Departure Time:1720277820 Departing in 3 minutes
+NORSAVo Estimated Departure Time:1720277820 Departing in 3 minutes
+NORWITo Estimated Departure Time:1720277880 Departing in 4 minutes
+NORSIMo Estimated Departure Time:1720277940 Departing in 5 minutes
+SIM2NDo Estimated Departure Time:1720277940 Departing in 5 minutes
+SIM5THo Estimated Departure Time:1720278000 Departing in 6 minutes
+SIMNORo Estimated Departure Time:1720278000 Departing in 6 minutes
+SIMWALo Estimated Departure Time:1720278060 Departing in 7 minutes
+SIMSHOo Estimated Departure Time:1720278120 Departing in 8 minutes
+GALMULe Estimated Departure Time:1720278180 Departing in 9 minutes
+GALBETe Estimated Departure Time:1720278180 Departing in 9 minutes
+GALMEAe Estimated Departure Time:1720278240 Departing in 10 minutes
+HAMBISo Estimated Departure Time:1720278300 Departing in 11 minutes
+HAMCLOo Estimated Departure Time:1720278300 Departing in 11 minutes
+HAMCENo Estimated Departure Time:1720278360 Departing in 12 minutes
+HAMMADo Estimated Departure Time:1720278420 Departing in 13 minutes
+HAMKINo Estimated Departure Time:1720278480 Departing in 14 minutes
+HAMMCMo Estimated Departure Time:1720278480 Departing in 14 minutes
+HAMHASo Estimated Departure Time:1720278540 Departing in 15 minutes
+HAMADAo Estimated Departure Time:1720278600 Departing in 16 minutes
+HAM8042o Estimated Departure Time:1720278600 Departing in 16 minutes
+HILTOPi 
+This bus is  0  stops away from your location
+

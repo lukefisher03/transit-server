@@ -1,0 +1,49 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,SORTA,1,Mt. Adams,,3,,2A75B0,000000
+100,SORTA,100,Streetcar - OTR - Banks,,0,,68C9F2,000000
+11,SORTA,11,Madison Road,,3,,F68923,000000
+12,SORTA,12,Madisonville Commuter,,3,,C2D231,000000
+16,SORTA,16,Spring Grove / Daly,,3,,2A75B0,000000
+17,SORTA,17,Hamilton Avenue,,3,,F68923,000000
+19,SORTA,19,Colerain Avenue,,3,,2A75B0,000000
+2,SORTA,2,Madeira Commuter,,3,,C2D231,000000
+20,SORTA,20,Winton Road,,3,,2A75B0,000000
+21,SORTA,21,Harrison Avenue,,3,,2A75B0,000000
+22,SORTA,22,Glenway / Madison,,3,,C2D231,000000
+23,SORTA,23X,Forest Park Express,,3,,C2D231,000000
+24,SORTA,24,MLK / Beechmont,,3,,2A75B0,000000
+25,SORTA,25,Mt. Lookout Commuter,,3,,C2D231,000000
+27,SORTA,27,Beekman / Linn,,3,,2A75B0,000000
+28,SORTA,28,East End,,3,,2A75B0,000000
+29,SORTA,29X,Milford Express,,3,,C2D231,000000
+3,SORTA,3X,Montgomery Express,,3,,C2D231,000000
+30,SORTA,30,Beechmont Commuter,,3,,C2D231,000000
+31,SORTA,31,Taft / McMillan,,3,,2A75B0,000000
+32,SORTA,32,West 8th Street,,3,,2A75B0,000000
+33,SORTA,33,Glenway Avenue,,3,,F68923,000000
+36,SORTA,36,Price Hill / Uptown,,3,,2A75B0,000000
+37,SORTA,37,MLK / Westwood Northern,,3,,C2D231,000000
+38,SORTA,38,Uptown Commuter,,3,,C2D231,000000
+4,SORTA,4,Montgomery Road,,3,,F68923,000000
+40,SORTA,40,Montana Commuter,,3,,C2D231,000000
+41,SORTA,41,North Bend Road,,3,,2A75B0,000000
+43,SORTA,43,Reading Road,,3,,F68923,000000
+46,SORTA,46,Avondale,,3,,2A75B0,000000
+49,SORTA,49,Fairmount,,3,,2A75B0,000000
+5,SORTA,5,Blue Ash,,3,,2A75B0,000000
+50,SORTA,50,River Road Commuter,,3,,C2D231,000000
+51,SORTA,51,Uptown Connector,,3,,F68923,000000
+52,SORTA,52X,Harrison Express,,3,,C2D231,000000
+6,SORTA,6,Queen City Avenue,,3,,2A75B0,000000
+64,SORTA,64,Westwood,,3,,2A75B0,000000
+65,SORTA,65,Western Hills,,3,,C2D231,000000
+67,SORTA,67,Kemper Road,,3,,2A75B0,000000
+71,SORTA,71X,Kings Island Express,,3,,C2D231,000000
+72,SORTA,72X,Kings Island Direct,,3,,FF8000,000000
+74,SORTA,74X,Colerain Express,,3,,C2D231,000000
+75,SORTA,75X,Anderson Express,,3,,C2D231,000000
+77,SORTA,77,Delhi Commuter,,3,,C2D231,000000
+78,SORTA,78,Vine Street,,3,,F68923,000000
+81,SORTA,81,Mt. Washington Commuter,,3,,C2D231,000000
+82,SORTA,82X,Eastgate Express,,3,,C2D231,000000
+90,SORTA,M+,MetroPlus,,3,,2A75B0,000000

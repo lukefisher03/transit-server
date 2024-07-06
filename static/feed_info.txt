@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Southwest Ohio Regional Transit Authority,http://www.go-metro.com,en,20240526,20240810,202406 June_20240625
